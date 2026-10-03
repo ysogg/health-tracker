@@ -5,6 +5,10 @@ built for an ESP32 with a color TFT display that shows daily steps and
 active zone minutes. The desktop build is just a one-time OAuth setup tool (`--auth`); it shares its
 OAuth/HTTP/JSON code with the ESP32 build but doesn't fetch or display data itself.
 
+
+<img width="2880" height="2160" alt="IMG_8221" src="https://github.com/user-attachments/assets/938b07b1-3b6e-4568-874d-7e3798215b2e" />
+
+
 ## 1. Google Cloud setup (one-time)
 
 1. Create a project in the [Google Cloud Console](https://console.cloud.google.com/).
