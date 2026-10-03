@@ -1,0 +1,5 @@
+.env
+build/
+
+esp32/include/secrets.h
+esp32/.pio/
